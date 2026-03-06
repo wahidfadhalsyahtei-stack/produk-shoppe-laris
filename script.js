@@ -1,6 +1,6 @@
 const products = [
 {
-name: "setelan crop,Setelan Panjang Celana Kulot Terbaru, Bahan Rayon Viscose dan Sritex",
+name: "setelan crop,Setelan Panjang Celana Kulot Terbaru,Bahan Rayon Viscose dan Sritex",
 price: "Rp 66.400",
 image: "https://via.placeholder.com/200",
 link: "https://s.shopee.co.id/1BHPOcPzmX"
@@ -12,7 +12,7 @@ image: "https://via.placeholder.com/200",
 link: "https://s.shopee.co.id/W1ibsG4Tm"
 },
 {
-name: "Daster long motif semata kaki/Daster long/Daster motif/Termurah/Terlaris/Busuy/Seleting/Kekinian/",
+name: "Daster long motif semata kaki/Daster long/Daster motif/Termurah",
 price: "Rp 49.000",
 image: "https://via.placeholder.com/200",
 link: "https://s.shopee.co.id/5fjolSkyNE"
@@ -36,3 +36,4 @@ container.innerHTML += `
 
 
 })
+
