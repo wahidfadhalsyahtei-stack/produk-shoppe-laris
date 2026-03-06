@@ -2,7 +2,7 @@ const products = [
 {
 name: "setelan crop,Setelan Panjang Celana Kulot Terbaru,Bahan Rayon Viscose dan Sritex",
 price: "Rp 66.400",
-image: "https://down-id.img.susercontent.com/file/id-11134207-7rbkb-ma5aytszm4hw22.webp",
+image: "https://via.placeholder.com/200",
 link: "https://s.shopee.co.id/1BHPOcPzmX"
 },
 {
@@ -36,5 +36,6 @@ container.innerHTML += `
 
 
 })
+
 
 
