@@ -1,21 +1,21 @@
 const products = [
 {
-name: "Blender Portable USB",
-price: "Rp 59.000",
+name: "setelan crop,Setelan Panjang Celana Kulot Terbaru, Bahan Rayon Viscose dan Sritex",
+price: "Rp 66.400",
 image: "https://via.placeholder.com/200",
-link: "LINK-AFFILIATE-SHOPEE"
+link: "https://s.shopee.co.id/1BHPOcPzmX"
 },
 {
-name: "Lampu LED Sensor",
-price: "Rp 25.000",
+name: "PIYAMA RAYON WANITA.PIYAMA KANCING",
+price: "Rp 61.616",
 image: "https://via.placeholder.com/200",
-link: "LINK-AFFILIATE-SHOPEE"
+link: "https://s.shopee.co.id/W1ibsG4Tm"
 },
 {
-name: "Mini Vacuum Cleaner",
-price: "Rp 70.000",
+name: "Daster long motif semata kaki/Daster long/Daster motif/Termurah/Terlaris/Busuy/Seleting/Kekinian/",
+price: "Rp 49.000",
 image: "https://via.placeholder.com/200",
-link: "LINK-AFFILIATE-SHOPEE"
+link: "https://s.shopee.co.id/5fjolSkyNE"
 }
 ]
 
@@ -33,5 +33,6 @@ container.innerHTML += `
 </a>
 </div>
 `
+
 
 })
